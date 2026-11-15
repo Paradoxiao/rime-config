@@ -1,0 +1,96 @@
+---
+name: custom
+version: "1"
+sort: by_weight
+...
+# Coding
+AList	alist
+ALU	alu
+ARP	arp
+BitLocker	bitlocker
+conda	conda
+CRC	crc
+DLAA	dlaa
+DLSS	dlss
+DMA	dma
+FCB	fcb
+GB	gb
+GitHub issues	githubissues
+Hz	hz
+I/O	io
+JavaScript	javascript
+js	js
+JS	js
+JavaScript	js
+KaTeX	katex
+KB	kb
+MAC	mac
+Mac	mac
+MB	mb
+Miniconda	miniconda
+mise	mise
+NAT	nat
+OpenList	olist
+OpenCV	opencv
+OSPF	ospf
+PCB	pcb
+pip	pip
+pnpm	pnpm
+pr	pr
+pull request	pr
+Pull Request	pr
+SASS	sass
+SCSS	scss
+Selenium	selenium
+ts	ts
+TS	ts
+TypeScript	ts
+UE	ue
+Unreal Engine	ue
+Unreal Engine	unrealengine
+Visual Studio	vsstudio
+Visual Studio	vstudio
+
+# Daily
+↑	shang	1000
+↓	xia	1000
+←	zuo	1000
+→	you	1000
+↖	zuo shang	1000
+↖	shang zuo	1000
+↗	you shang	1000
+↗	shang you	1000
+↘	you xia	1000
+↘	xia you	1000
+↙	zuo xia	1000
+↙	xia zuo	1000
+↑	jian tou	1000
+↓	jian tou	1000
+←	jian tou	1000
+→	jian tou	1000
+↖	jian tou	1000
+↖	jian tou	1000
+↗	jian tou	1000
+↗	jian tou	1000
+↘	jian tou	1000
+↘	jian tou	1000
+↙	jian tou	1000
+↙	jian tou	1000
+
+# Gaming
+Ciallo～(∠・ω< )⌒☆	ciallo
+Ciallo～(∠・ω< )⌒★	ciallo
+ちゃろー～(∠・ω< )⌒★	ciallo
+Phigros	phigros
+
+# Network
+BitComet	bitcomet
+bit/s	bits
+Gbit	gbit
+Gbit/s	gbits
+GHz	ghz
+Mbit	mbit
+Mbit/s	mbits
+MHz	mhz
+PCDN	pcdn
+TCP/IP	tcpip
