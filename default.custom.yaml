@@ -1,3 +1,5 @@
 patch:
   __include: rime_ice_suggestion:/
   "menu/page_size": 10
+  engine/translators/+:
+    - lua_translator@*date_translator
